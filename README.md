@@ -11,7 +11,7 @@ Installation :
 --------------
 
 1. Linux :
-  +++++++
+
 
 sudo apt update
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 
 2. Windows :
-  +++++++++
+
 
 Download Zip File using code button then Download zip.
 
@@ -100,7 +100,7 @@ Features :
 _____________________________________________________________________________________
 
 ~ Credits > SIDDHESH SURVE!
-***************************
+
 _____________________________________________________________________________________
 
 Tool & Source Availability :
@@ -123,6 +123,6 @@ WHATSAPP - +91 9172814140
 
 INSTAGRAM - https://www.instagram.com/ft.siddhesh
 
-GITHUB - https://www.github.com/Technical-Sid/
+GITHUB - https://www.github.com/WhiteHat-Hunter/
 
 _____________________________________________________________________________________
