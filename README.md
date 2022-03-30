@@ -4,7 +4,7 @@ Online Fully-Working Text To Speech (TTS) converter for Python!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 gTTS is a google-text-to-speech conversion library in Python,
-*Note* - [But Unfortunately it works Offline.]
+*Note* - [But Unfortunately it works Online.]
 _____________________________________________________________________________________
 
 Installation :
