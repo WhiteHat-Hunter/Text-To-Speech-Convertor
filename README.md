@@ -17,7 +17,7 @@ sudo apt update
 
 sudo apt install git
 
-git clone https://github.com/Technical-Sid/Text-To-Speech-Convertor.git
+git clone https://github.com/WhiteHat-Hunter/Text-To-Speech-Convertor.git
 
 cd Text-To-Speech-Convertor
 
