@@ -27,11 +27,11 @@ pip install -r requirements.txt
 2. Windows :
   +++++++++
 
-Download Zip File From the Github Website Link
+Download Zip File using code button then Download zip.
 
-Extract The Folder, where you want
+Extract The Folder in your Local Drive.
 
-Open CMD & go to Folder where you Extract the Zip File
+Open CMD & cd [ folder_path ]
 
 pip install -r requirements.txt
 
@@ -41,7 +41,7 @@ Usage :
 -------
 
 1. Linux :
-  +++++++
+  
 
 cd Text-To-Speech-Convertor
 
@@ -51,11 +51,13 @@ python text-to-speech.py  -----  OR ---- python3 text-to-speech.py
 
 
 2. Windows :
-  +++++++++
+
 
 Go to Text-To-Speech-Convertor & Run Tool Directly.
 
 OR
+
+cd [ folder_path ]
 
 python text-to-speech.py  -----  OR ---- python3 text-to-speech.py
 
